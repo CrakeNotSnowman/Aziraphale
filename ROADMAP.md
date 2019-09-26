@@ -34,6 +34,8 @@ Unless otherwise noted, all changes by @kmurrayis
 
  - [X] Get a better name
  - Expand it beyond twitter, to all files in my db folder
+ - Create a Preference Path file, where locateDB draws from 
+ - Add a "Save to preferences" function for locateDB
 
 
 #### Add
@@ -44,6 +46,7 @@ Unless otherwise noted, all changes by @kmurrayis
 #### Fix
 #### Security
 #### Consider
+#### Testing
 
 
 
